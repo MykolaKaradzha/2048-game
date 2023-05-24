@@ -15,5 +15,5 @@ Rules:
 10) Increase score with each move. The score should be increased by the sum of all merged cells.
 
 Link to preview on github pages:
-- [DEMO LINK](https://MykolaKaradzha.github.io/js_2048_game/)
+- [DEMO LINK](https://mykolakaradzha.github.io/2048-game/)
 
